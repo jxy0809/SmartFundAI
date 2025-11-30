@@ -1,0 +1,5 @@
+{
+  "name": "SmartFund AI (智投基金助手)",
+  "description": "A comprehensive intelligent fund manager that tracks your Chinese mutual fund portfolio, calculates real-time profit/loss, and provides AI-powered market analysis and recommendations.",
+  "requestFramePermissions": []
+}
